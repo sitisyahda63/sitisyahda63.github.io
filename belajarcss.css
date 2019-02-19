@@ -1,0 +1,13 @@
+h1{color:purple; border:2px dashed brown; opacity:1,2;}
+body {
+  background-color: paleturquoise;
+}
+
+p{
+	font-family: arial;
+	text-align: center;
+}
+
+img{
+	align-self: center;
+}
